@@ -53,7 +53,7 @@
             class=" w-full bg-white hover:bg-gray-100 text-gray-800 text-sm font-semibold py-4 px-4 border border-gray-400 rounded-full inline-flex justify-center"
           >
           <img class="icons w-4 h-1 mr-3" :src="require(`~/assets/google.png`)" />
-            <span>continue with Google </span>
+            <span>Continue with Google </span>
           </button>
         </div>
         <div class="flex my-2 content-center">
